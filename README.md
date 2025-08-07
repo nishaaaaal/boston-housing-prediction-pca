@@ -58,11 +58,6 @@ This project demonstrates a complete machine learning pipeline for predicting ho
 
 | Metric     | Training Set | Test Set |
 |------------|--------------|----------|
-| R² Score   | 0.84 (example) | 0.79 (example) |
-| RMSE       | 3.6 (example)  | 4.2 (example)  |
+| R² Score   | 0.8473       | 0.7677   |
+| RMSE       | 3.6799       | 4.3342   |
 
-> 📌 *Note: Replace the above scores with your actual model results.*
-
----
-
-## 📁 Project Structure
